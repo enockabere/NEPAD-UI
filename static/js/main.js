@@ -1,3 +1,12 @@
-$("#login").click(function(){
-    alert("hello")
+$(document).ready(function(){
+    $("#reg").click(function(e){
+        e.preventDefault();
+        $("#n-right1").hide();
+        $("#n-right2").show();
+    })
+    $("#log").click(function(e){
+        e.preventDefault();
+        $("#n-right2").hide();
+        $("#n-right1").show();
+    })
 })

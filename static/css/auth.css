@@ -162,3 +162,23 @@ label {
     font-size: 7px;
     position: absolute;
 }
+#re-div{
+    border: 1px solid #b6b8b5;
+    overflow: visible;
+    text-align: center;
+    opacity: 1;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+#re-div:after{
+    background: whitesmoke;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    content: 'OR';
+    padding: 0 10px;
+    position: relative;
+    top: -13px;
+    color: #60606A;
+    opacity: 1;
+}

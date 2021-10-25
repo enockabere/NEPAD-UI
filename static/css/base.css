@@ -6,6 +6,10 @@
 #n-left {
     background-color: #97b64e;
 }
-#n-right {
+#n-right1 {
     background-color: whitesmoke;
+}
+#n-right2{
+    background-color: whitesmoke;
+    display: none;
 }
