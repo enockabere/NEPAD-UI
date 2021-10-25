@@ -1,0 +1,11 @@
+.n-login {
+    height: 100vh;
+    width: 100%;
+}
+
+#n-left {
+    background-color: #97b64e;
+}
+#n-right {
+    background-color: whitesmoke;
+}
