@@ -91,27 +91,27 @@ label {
 	border-radius: 0;
 }
 
-.signup-form .form-group {
+.login-form .form-group {
 	margin-bottom: 40px;
 }
-.signup-form label {
+.login-form label {
 	font-weight: normal;
 	font-size: 13px;
 }
-.signup-form .form-control {
+.login-form .form-control {
 	min-height: 38px;
 	box-shadow: none !important;
 	border-width: 0 0 1px 0;
     background-color: whitesmoke;
 }	
-.signup-form .input-group-addon {
+.login-form .input-group-addon {
 	max-width: 42px;
 	text-align: center;
 	background: none;
 	border-bottom: 1px solid #afb1ae;
 	padding-left: 5px;
 }
-.signup-form .btn, .signup-form .btn:active {        
+.login-form .btn, .login-form .btn:active {        
 	font-size: 16px;
 	font-weight: bold;
 	background: #97B64D !important;
@@ -119,25 +119,25 @@ label {
 	border: none;
 	min-width: 140px;
 }
-.signup-form .btn:hover, .signup-form .btn:focus {
+.login-form .btn:hover, .login-form .btn:focus {
 	background: #97B64D !important;
 }
-.signup-form a {
+.login-form a {
 	color: #97B64D;
 	text-decoration: none;
 }	
-.signup-form a:hover {
+.login-form a:hover {
 	text-decoration: underline;
 }
-.signup-form .fa {
+.login-form .fa {
 	font-size: 21px;
 	position: relative;
 	top: 8px;
 }
-.signup-form .fa-paper-plane {
+.login-form .fa-paper-plane {
 	font-size: 17px;
 }
-.signup-form .fa-check {
+.login-form .fa-check {
 	color: #fff;
 	left: 9px;
 	top: 18px;
