@@ -1,0 +1,75 @@
+.default-theme .sidebar-wrapper {
+    background-color: #f5f1f1;
+    box-shadow: 5px 10px whitesmoke;
+}
+
+.default-theme .sidebar-wrapper .sidebar-item {
+    border-top: 1px solid #2b2b2b;
+}
+
+.default-theme .sidebar-wrapper .sidebar-item:first-child {
+    border-top: none;
+}
+
+.default-theme .sidebar-wrapper .sidebar-menu a:hover i,
+.default-theme .sidebar-wrapper .sidebar-menu a:hover:before,
+.default-theme .sidebar-wrapper .sidebar-menu li.active a i {
+    color: #97B64D;
+}
+s
+.default-theme .sidebar-wrapper .sidebar-menu .header-menu span {
+ color: #D7D7D7;;
+}
+
+
+.default-theme .sidebar-wrapper .sidebar-footer>div:first-child {
+    border-left: none;
+}
+
+.default-theme .sidebar-wrapper .sidebar-footer>div:last-child {
+    border-right: none;
+}
+
+.default-theme .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+.default-theme .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar,
+.default-theme .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
+    background-color: white;
+    border-radius: 0;
+}
+
+.default-theme .mCSB_scrollTools .mCSB_draggerRail {
+    background-color: transparent;
+}
+
+.default-theme.sidebar-bg .sidebar-wrapper:before {
+    background-color: white;
+}
+.default-theme.sidebar-bg .sidebar-wrapper a:not(.dropdown-item),
+.default-theme.sidebar-bg .sidebar-wrapper .sidebar-header,
+.default-theme.sidebar-bg .sidebar-wrapper .sidebar-search i {
+    color: #717579;
+}
+
+.default-theme.sidebar-bg .sidebar-wrapper a:not(.dropdown-item):hover,
+.default-theme.sidebar-bg .sidebar-wrapper .sidebar-menu li.active>a {
+    color: rgb(151, 183, 78);
+    background-color: #F1EAFF;
+    border-radius: 0px 10px 50px 0px;
+}
+
+.default-theme.sidebar-bg .sidebar-wrapper .sidebar-item {
+    border-color: white;
+}
+
+.default-theme.sidebar-bg .sidebar-wrapper .sidebar-menu .sidebar-dropdown div {
+    background-color:white;
+}
+
+.default-theme.sidebar-bg .sidebar-wrapper .sidebar-menu ul li a i {
+    background-color:transparent;
+}
+y
+.default-theme.sidebar-bg .sidebar-wrapper .sidebar-footer {
+    background-color:white;
+    border-top: 3px solid #97B64D;
+}
